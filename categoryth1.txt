@@ -1,0 +1,23 @@
+Lec1:
+  morph + obj - mn-va - malaya
+  esli Set1 - obychniy
+  Set2 - och bolshie
+
+cath: a, b, c; ab, bc - not, tk net ac!
+
+comm cath: lyuboi path - odin morphism; te comm - rav-vo strelok
+
+comm - if contours commute => commute (lal)
+
+
+
+
+
+
+
+_____
+Как добавить дата в стлс? - по сути доп акс и правила!
+
+Как делать редукции и проч? - все как хотим или пользователь задал
+
+Как опред эта эквив?(?)
