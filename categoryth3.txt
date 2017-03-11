@@ -1,0 +1,26 @@
+Lec3:
+set - ab gr: 1 - Z       тк порожд одним.
+           : Z - копии Z
+
+терм - одноэл мн-во в SET (одна стрелка)
+
+эта для пар: (fst p, snd p) = p
+for unit: () = anyElement
+
+trivial groupoid - all isomorphic (connected graph)
+                all connected guys are equal - all terminal
+
+hom(C, B) -> hom(C, A1)*hom(C, A2)
+        h |-> (p1*h, p2*h)
+
+      if isom in SET <=> descartes
+
+чтобы сказать что есть фин произв - значит в нашей кат должны быть (произв 2?).
+Но есть еще случай нуля! Типа терминальный объект нужен еще (произв нуля)
+
+эксп в лекциях: декар вначале, потом карр
+
+
+
+
+---
